@@ -10,6 +10,7 @@ for collecting JMX metrics from kafka clients.
 | 0.0.3      | 2.1.1 | 0.6.0 |
 | 0.0.4      | 2.3.0 | 0.6.0 |
 | 0.0.5      | 2.3.0 | 0.6.0 |
+| 0.0.7      | 2.4.1 | 0.9.0 |
 ## Usage 
 ```xml
 <dependency>
